@@ -1,0 +1,13 @@
+C:\Users\jghal\source\repos\Lab4PowerTables\Lab4PowerTables\obj\Debug\netcoreapp3.1\Lab4PowerTables.csprojAssemblyReference.cache
+C:\Users\jghal\source\repos\Lab4PowerTables\Lab4PowerTables\obj\Debug\netcoreapp3.1\Lab4PowerTables.AssemblyInfoInputs.cache
+C:\Users\jghal\source\repos\Lab4PowerTables\Lab4PowerTables\obj\Debug\netcoreapp3.1\Lab4PowerTables.AssemblyInfo.cs
+C:\Users\jghal\source\repos\Lab4PowerTables\Lab4PowerTables\obj\Debug\netcoreapp3.1\Lab4PowerTables.csproj.CoreCompileInputs.cache
+C:\Users\jghal\source\repos\Lab4PowerTables\Lab4PowerTables\bin\Debug\netcoreapp3.1\Lab4PowerTables.exe
+C:\Users\jghal\source\repos\Lab4PowerTables\Lab4PowerTables\bin\Debug\netcoreapp3.1\Lab4PowerTables.deps.json
+C:\Users\jghal\source\repos\Lab4PowerTables\Lab4PowerTables\bin\Debug\netcoreapp3.1\Lab4PowerTables.runtimeconfig.json
+C:\Users\jghal\source\repos\Lab4PowerTables\Lab4PowerTables\bin\Debug\netcoreapp3.1\Lab4PowerTables.runtimeconfig.dev.json
+C:\Users\jghal\source\repos\Lab4PowerTables\Lab4PowerTables\bin\Debug\netcoreapp3.1\Lab4PowerTables.dll
+C:\Users\jghal\source\repos\Lab4PowerTables\Lab4PowerTables\bin\Debug\netcoreapp3.1\Lab4PowerTables.pdb
+C:\Users\jghal\source\repos\Lab4PowerTables\Lab4PowerTables\obj\Debug\netcoreapp3.1\Lab4PowerTables.dll
+C:\Users\jghal\source\repos\Lab4PowerTables\Lab4PowerTables\obj\Debug\netcoreapp3.1\Lab4PowerTables.pdb
+C:\Users\jghal\source\repos\Lab4PowerTables\Lab4PowerTables\obj\Debug\netcoreapp3.1\Lab4PowerTables.genruntimeconfig.cache
